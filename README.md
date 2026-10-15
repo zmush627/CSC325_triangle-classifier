@@ -4,3 +4,5 @@
 
 # test_triangle.py - Copilot was used - Kept - Copilot assisted with the overall bodies for the tests. (all tests failed)
 
+# test_triangle.py - Copilot was used - Rejected - Copilot suggested Capitalizing The test results (I did it myself).
+
